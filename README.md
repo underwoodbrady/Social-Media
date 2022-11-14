@@ -1,2 +1,2 @@
 # Social Media App
-Using MERN stack
+React.js and Node.js
